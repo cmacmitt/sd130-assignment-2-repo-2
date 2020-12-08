@@ -1,0 +1,83 @@
+1039  cd mitt
+ 1040  git clone https://github.com/cmacmitt/sd130-assignment-2-repo-2.git
+ 1041  ls
+ 1042  rm -rf sd130-assignment-2-repo-2
+ 1043  git clone git@github.com:chet-hub/sd130-assignment-2-repo-2.git
+ 1044  ls
+ 1045  cd sd130-assignment-2-repo-2
+ 1046  git branch Issue-3
+ 1047  git branch
+ 1048  git checkout Issue-3
+ 1049  ls
+ 1050  code src
+ 1051  ls
+ 1052  npm i --save-dev gulp-imagemin
+ 1053  gulp
+ 1054  git status
+ 1055  git add -A
+ 1056  git status
+ 1057  git commit -m "fix issue3"
+ 1058  git status
+ 1059  git push
+ 1060  git status
+ 1061  git branch
+ 1062  git branch main
+ 1063  git checkout main
+ 1064  git merged Issue-3
+ 1065  git merge Issue-3
+ 1066  git status
+ 1067  git branch
+ 1068  git status
+ 1069  git push
+ 1070  git pull
+ 1071  git status
+ 1072  git push
+ 1073  ls
+ 1074  git status
+ 1075  git commit - amend -m "update the modifing in index.html"
+ 1076  git add src/index.html
+ 1077  git commit -m "update the modifing in index.html"
+ 1078  git push
+ 1079  git status
+ 1080  git remote -v
+ 1081  ls
+ 1082  git status
+ 1083  git pull
+ 1084  git remote show origin
+ 1085  cd ..
+ 1086  git clone https://github.com/cmacmitt/sd130-assignment-2-repo-2.git main-repo
+ 1087  ls
+ 1088  cd main-repo
+ 1089  git remote show origin
+ 1090  cd -
+ 1091  ls
+ 1092  cd sd130-assignment-2-repo-2
+ 1093  ls
+ 1094  ls
+ 1095  cd ../main-repo
+ 1096  git remote show origin
+ 1097  git pull
+ 1098  git remote show origin
+ 1099  git status
+ 1100  git branch
+ 1101  ls
+ 1102  touch test
+ 1103  ls
+ 1104  git status
+ 1105  git add test
+ 1106  git commit -m "add a test file"
+ 1107  git push
+ 1108  git remote -v
+ 1109  git remote set-url origin git@github.com:cmacmitt/sd130-assignment-2-repo-2.git
+ 1110  git remote -v
+ 1111  git push
+ 1112  cd ../sd130-assignment-2-repo-2
+ 1113  ls
+ 1114  git status
+ 1115  git remote show origin
+ 1116  git status
+ 1117  git pull
+ 1118  git status
+ 1119  git branch
+ 1120  ls
+ 1121  history > Chet.history.txt
