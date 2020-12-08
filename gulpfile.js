@@ -1,7 +1,12 @@
 const {src, dest, series, parallel} = require('gulp');
 const del = require('del');
+<<<<<<< HEAD
 const terser = require('gulp-terser');
+=======
+const imagemin = require('gulp-imagemin');
+>>>>>>> e6df722c3fe669b8220acf19beb4d6abfadb4ffc
 
+// this cleans the things
 function cleanTask() {
   return del('dist');
 }
@@ -24,6 +29,7 @@ function stylesTask() {
 
 function imagesTask() {
   return src('src/images/**/*')
+      .pipe(imagemin())
     .pipe(dest('dist/images'))
 }
 
