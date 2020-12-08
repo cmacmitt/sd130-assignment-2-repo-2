@@ -12,5 +12,9 @@
   "devDependencies": {
     "del": "^6.0.0",
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-terser": "^2.0.0",
+    "terser": "^5.5.1"
   }
 }
