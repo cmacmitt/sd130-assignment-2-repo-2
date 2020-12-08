@@ -12,7 +12,8 @@
   "devDependencies": {
     "del": "^6.0.0",
     "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1"
+    "gulp-concat": "^2.6.1",
+    "gulp-terser": "^2.0.0"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/joaofelipe0202/sd130-assignment-2-repo-2/issues"
   },
-  "homepage": "https://github.com/joaofelipe0202/sd130-assignment-2-repo-2#readme"
+  "homepage": "https://github.com/joaofelipe0202/sd130-assignment-2-repo-2#readme",
+  "dependencies": {}
 }

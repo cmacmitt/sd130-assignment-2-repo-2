@@ -1,0 +1,1 @@
+const attendanceContainerEle=document.querySelector(".attendance-container"),addName=attendanceContainerEle.querySelector("button"),nameList=attendanceContainerEle.querySelector("ul");
