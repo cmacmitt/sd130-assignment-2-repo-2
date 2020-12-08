@@ -1,1 +1,6 @@
 node_modules
+<<<<<<< HEAD
+=======
+dist
+.idea/
+>>>>>>> e6df722c3fe669b8220acf19beb4d6abfadb4ffc

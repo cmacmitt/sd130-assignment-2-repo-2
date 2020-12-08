@@ -1,0 +1,31 @@
+   44  git clone https://github.com/cmacmitt/sd130-assignment-2-repo-2.git
+   45  cd sd130-assignment-2-repo-2
+   46  git branch issue-2
+   47  git checkout issue-2
+   48  code .
+   49  git status
+   50  git add .
+   51  git commit -m 'add code to main.js'
+   52  npm init --yes
+   53  npm i gulp-terser --save-dev
+   54  gulp
+   55  echo 'node_modules' > .gitignore
+   56  git status
+   57  git add .
+   58  git commit -m 'minify js file and add node_modules to .gitignore'
+   59  git push -u origin issue-2
+   60  git checkout main
+   61  git merge issue-2
+   62  git commit -m 'merged issue-2 to main'
+   63  git status
+   64  git push
+   65  git pull
+   66  git status
+   67  git add .
+   68  git status
+   69  git push
+   70  git pull
+   71  git commit -m 'merged issue-2 to main'
+   72  git pull
+   73  git push
+   74  history > johnny-history.txt
