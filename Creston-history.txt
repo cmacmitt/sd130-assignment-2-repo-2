@@ -1,0 +1,28 @@
+    1  git clone https://github.com/Creston-B/sd130-assignment-2-repo-2.git
+    2  git checkout -b "issue 2"
+    3  cd sd130-assignment-2-repo-2/
+    4  git checkout -b "issue 2"
+    5  git checkout -b issue-2
+    6  dir
+    7  code ./src
+    8  code .
+    9  gulp
+   10  npm i -d gulp
+   11  npm i -d terser
+   12  gulp
+   13  npm i -d gulp-terser
+   14  gulp
+   15  git add .
+   16  git commit -m "updated js and gulp file"
+   17  git push -u origin issue-2
+   18  git branch
+   19  git checkout main
+   20  git merge issue-2
+   21  git commit -m "merged js changes to main"
+   22  git add .
+   23  git commit -m "merged js changes to main"
+   24  git push
+   25  git pull
+   26  git status
+   27  git push
+   28  history > history.txt
