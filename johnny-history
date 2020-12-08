@@ -1,0 +1,500 @@
+   29  npm init
+   30  code .
+   31  npm install dayjs
+   32  open .
+   33  cd ..
+   34  git clone https://github.com/joaofelipe0202/npm-practice.git
+   35  cd npm-practice
+   36  npm init
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m 'commit package.json folder'
+   41  npm i dayjs
+   42  code .
+   43  git status
+   44  git add package.json package-lock.json
+   45  git status
+   46  git commit -m 'commit package.json package-lock.json'
+   47  git log
+   48  git status
+   49  git add .gitignore
+   50  git statu
+   51  git status
+   52  git commit -m 'create .gitignore file'
+   53  git log
+   54  git push
+   55  cd npm-practice
+   56  cd Desktop\npm-practice
+   57  cd Desktop/npm-practice
+   58  git push
+   59  cd '/c/Users/Joao Felipe/Desktop/final-project-budget-calculator'
+   60  git init
+   61  git status
+   62  git add .
+   63  git status
+   64  git commit -m 'commit the budget calculator project'
+   65  git status[
+   66  git status
+   67  git remote add origin https://github.com/joaofelipe0202/budget-calculator.git
+   68  git branch -M main
+   69  git push -u origin main
+   70  npm init --yes
+   71  ll
+   72  npm install --save-dev gulp
+   73  gulp --version
+   74  gulp --v
+   75  gulp -v
+   76  gulp --version
+   77  npm install --global gulp-cli
+   78  gulp --version
+   79  npm install --save-dev gulp
+   80  git status
+   81  git add .
+   82  cd '/c/Users/Joao Felipe/Desktop/final-project-budget-calculator'
+   83  git switch master
+   84  cd '/c/Users/Joao Felipe/Desktop/final-project-budget-calculator'
+   85  git switch master
+   86  git checkout master
+   87  git init
+   88  git switch master
+   89  git checkout master
+   90  git checkout master
+   91  cd ..
+   92  cd ..
+   93  cd '/c/Users/Joao Felipe/Desktop/final-project-budget-calculator'
+   94  git init
+   95  git status
+   96  git add .
+   97  git commit -m 'commit files from budget calculator project'
+   98  git status
+   99  git log
+  100  git remote add origin https://github.com/joaofelipe0202/budget-calculator.git
+  101  git branch -M main
+  102  git push -u origin main
+  103  npm init
+  104  npm install --global gulp-cli
+  105  git status
+  106  code .
+  107  git add package.json
+  108  git status
+  109  git commit -m 'add package.json'
+  110  git status
+  111  npm install --save-dev gulp
+  112  gulp --version
+  113  npm install --save-dev gulp
+  114  git status
+  115  touch .gitignore
+  116  ls
+  117  ll
+  118  echo 'node_modules' > .gitignore
+  119  ll
+  120  ls
+  121  cat .gitignore
+  122  git status
+  123  git status
+  124  git add .
+  125  git commit -m 'init npm, install gulp as dev dependency and create .gitignore file to store node_modules'
+  126  git log
+  127  git status
+  128  mkdir src
+  129  ls
+  130  mkdir css js images
+  131  mv style.css css
+  132  mv main.js js
+  133  mv back.png favicon.png images
+  134  ls
+  135  cd css
+  136  ls
+  137  cd ..
+  138  mv css images js index.html src
+  139  cd src
+  140  ls
+  141  cd ..
+  142  code .
+  143  git status
+  144  git add .
+  145  git status
+  146  git commit -m 'moving files to src directory, create a gulp task to move files to dist directory'
+  147  git status
+  148  git push
+  149  cd '/c/Users/Joao Felipe/Desktop/ex-9-shopping-cart'
+  150  git init
+  151  git status
+  152  git add .
+  153  git status
+  154  git commit -m 'first commit files and directories from the original project'
+  155  ls
+  156  git remote add origin https://github.com/joaofelipe0202/johnny_assignment2.git
+  157  git branch -M main
+  158  git push -u origin main
+  159  mkdir src
+  160  mv css images index.html js src
+  161  cd src
+  162  ls
+  163  cd ..
+  164  git status
+  165  git add src
+  166  git commit -m 'reorganize the project into a src directory'
+  167  git push
+  168  npm init
+  169  git status
+  170  npm install --save-dev gulp
+  171  gulp --version
+  172  code .
+  173  touch .gitignore
+  174  echo 'node_modules' > .gitignore
+  175  cat .gitignore
+  176  touch gulpfile.js
+  177  gulp 
+  178  gulp default
+  179  gulp
+  180  gulp
+  181  gulp
+  182  gulp
+  183  git status
+  184  git add .gitignore gulpfile.js package-lock.json package.json
+  185  git status
+  186  git commit -m 'create .gitignore file, move node_modules to .gitignore and initiate npm'
+  187  git status
+  188  git push
+  189  npm install --save-dev gulp-imagemin
+  190  gulp
+  191  npm install --save-dev gulp-minify
+  192  gulp
+  193  gulp
+  194  gulp 
+  195  npm install uglify-js -g
+  196  gulp
+  197  npm install --save-dev gulp-uglify
+  198  gulp
+  199  git status
+  200  npm i gulp-sourcemaps
+  201  gulp
+  202  gulp
+  203  nom i --save-dev gulp-postcss cssnano
+  204  npm i --save-dev gulp-postcss cssnano
+  205  gulp
+  206  gulp
+  207  gulp style
+  208  gulp
+  209  gulp style
+  210  gulp
+  211  npm install gulp-clean-css --save-dev
+  212  gulp style
+  213  gulp style
+  214  gulp style
+  215  npm i cssnano
+  216  gulp style
+  217  npm i postcss
+  218  gulp style
+  219  gulp style
+  220  gulp style
+  221  gulp
+  222  npm i --save-dev-postcss cssnano
+  223  gulp style
+  224  npm i --save-dev gulp-postcss cssnano
+  225  gulp style
+  226  gulp style
+  227  gulp style
+  228  gulp style
+  229  cd '/c/Users/Joao Felipe/Desktop/Software Developer MITT----/Object Oriented Javascript/final-project-budget-calculator'
+  230  code .
+  231  cd ..
+  232  cd ..
+  233  cd ..
+  234  de ..
+  235  cd ..
+  236  cd '/c/Users/Joao Felipe/Desktop/Software Developer MITT----/Object Oriented Javascript/ex-9-shopping-cart'
+  237  code .
+  238  cd '/c/Users/Joao Felipe/Desktop/ex-9-shopping-cart'
+  239  git init
+  240  git status
+  241  git add .
+  242  git status
+  243  git commit -m 'first commit'
+  244  git status
+  245  git remote add origin https://github.com/joaofelipe0202/johnny_assignment1.git
+  246  git branch -M main
+  247  git push -u origin main
+  248  mkdir src
+  249  mv css images index.html js src
+  250  cd src
+  251  ls
+  252  cd ..
+  253  git status
+  254  git add .
+  255  git status
+  256  git commit -m 'create src directory and move files and directories to it'
+  257  git status
+  258  npm init
+  259  git status
+  260  git add .
+  261  git commit -m 'initiate npm and add package.json'
+  262  git status
+  263  npm install --save-dev gulp
+  264  gulp --version
+  265  ls
+  266  touch .gitignore
+  267  echo 'node_modules' > .gitignore
+  268  ls
+  269  cat .gitignore
+  270  touch gulpfile.js
+  271  code .
+  272  gulp 
+  273  git status
+  274  git add .
+  275  git status
+  276  git commit -m 'create gulpfile.js and start automations'
+  277  git status
+  278  ls
+  279  npm i --save-dev gulp-postcss cssnano autoprefixer
+  280  npm i --save-dev postcss
+  281  gulp
+  282  gulp
+  283  npm install --save-dev gulp-uglify
+  284  gulp
+  285  gulp
+  286  npm install terser -g 
+  287  terser -c -m -- new.js > terser_new.js 
+  288  terser -c -m -- js/new.js > terser_new.js
+  289  cd js
+  290  terser -c -m -- src/js/new.js > terser_new.js
+  291  terser -c -m -- src/js/course.js > course.js
+  292  terser -c -m -- src/js/courses.js
+  293  terser -c -m -- src/js/courses.js > courses.js
+  294  terser -c -m -- src/js/new.js > new.js
+  295  gulp
+  296  gulp
+  297  mv courses.js new.js src/js
+  298  gulp
+  299  git status
+  300  git add .
+  301  git status
+  302  git commit -m 'minifying js and css files'
+  303  npm i --save-dev gulp-concat
+  304  gulp
+  305  gulp
+  306  gulp
+  307  guĺp
+  308  gulp
+  309  npm i gulp-sourcemaps
+  310  gulp
+  311  gulp
+  312  gulp
+  313  gulp
+  314  gulp
+  315  gulp
+  316  gulp
+  317  gulp
+  318  npm install imagemin
+  319  gulp
+  320  npm i gulp-imagemin
+  321  gulp
+  322  git status
+  323  git add .
+  324  git commit -m 'concatenate, create sourcemaps and optimize images'
+  325  git status
+  326  git push
+  327  git branch colour-change
+  328  git checkout colour-change
+  329  touch extra.css
+  330  mv extra.css src/css
+  331  gulp
+  332  gulp
+  333  gulp
+  334  git checkout main
+  335  git merge colour-change
+  336  git --merge
+  337  git checkout master
+  338  git merge colour-change
+  339  git --merged
+  340  git branch --merged
+  341  gulp
+  342  gulp
+  343  gulp
+  344  gulp
+  345  gulp
+  346  git status
+  347  git add .
+  348  git commit -m 'crate branch colour-change and create a new css file to overides the original'
+  349  git status
+  350  git branch johnny-feature && checkout johnny-feature
+  351  git checkout johnny-feature
+  352  touch johnny.css && mv johnny.css src/css
+  353  gulp
+  354  gulp
+  355  git checkout main
+  356  git merge johnny-feature
+  357  git branch --merged
+  358  git branch --no-merged
+  359  git status
+  360  git add .
+  361  git commit -m 'create new feature johnny.css'
+  362  git branch -d colour-change johnny.feature
+  363  git branch -d colour-change johnny-feature
+  364  git branch --merged
+  365  git status
+  366  git push
+  367  history > history.txt
+  368  git status
+  369  git add .
+  370  git commit -m 'create a history file and finish the assignment'
+  371  git push
+  372  git clone https://github.com/jayson-lazaro/class-7-example.git
+  373  cd class-7-example
+  374  code .
+  375  git status
+  376  git add .
+  377  git commit -m 'add some updates'
+  378  git push origin master
+  379  cd ..
+  380  git remote -add origin https://github.com/joaofelipe0202/exercise-7-sample2.git
+  381  git remote add origin https://github.com/joaofelipe0202/exercise-7-sample2.git
+  382  git init
+  383  git remote add origin https://github.com/joaofelipe0202/exercise-7-sample2.git
+  384  git branch -M main
+  385  git branch -M main
+  386  git push -u origin main
+  387  cd exercise-7-sample2
+  388  git remote add origin https://github.com/joaofelipe0202/exercise-7-sample2.git
+  389  git branch main
+  390  git remote add origin https://github.com/joaofelipe0202/exercise-7-sample2.git
+  391  git init
+  392  git remote add origin https://github.com/joaofelipe0202/exercise-7-sample2.git
+  393  cd exercise-7-sample2
+  394  git pull
+  395  git remote add origin https://github.com/joaofelipe0202/exercise7.git
+  396  git init
+  397  git remote add origin https://github.com/joaofelipe0202/exercise7.git
+  398  git init
+  399  cd ..
+  400  git remote set-url origin git@github.com:username/projectname.git
+  401  git init
+  402  cd Desktop
+  403  cd ~/Desktop
+  404  git init
+  405  git remote add origin https://github.com/joaofelipe0202/joao-and-jayson-exercise.git
+  406  git branch -M main
+  407  git push -u origin main
+  408  git init
+  409  git remote add origin https://github.com/joaofelipe0202/joao-and-jayson-exercise.git
+  410  git clone https://github.com/jayson-lazaro/class-7-example.git
+  411  git remote add origin https://github.com/joaofelipe0202/joao-and-jayson-exercise.git
+  412  git remote rm origin
+  413  git remote add origin https://github.com/joaofelipe0202/joao-and-jayson-exercise.git
+  414  git branch -M main
+  415  cd class-7-example
+  416  cd .
+  417  code .
+  418  git status
+  419  git add .
+  420  git commit -m 'try exercise2'
+  421  git push origin master
+  422  git pull origin master
+  423  code .
+  424  git status
+  425  git add .
+  426  git commit -m 'fix the conflict'
+  427  git push origin master
+  428  git clone https://github.com/joaofelipe0202/sd130-assignment-2-repo-2.git
+  429  cd sd130-assignment-2-repo-2
+  430  git branch issue-1
+  431  git checkout issue-1
+  432  touch new.css
+  433  code new.css
+  434  mv new.css src/styles
+  435  git push
+  436  git push --set-upstream origin issue-1
+  437  git status
+  438  git add .
+  439  git commit -m 'create new.css to override the main css file'
+  440  git push
+  441  code gulpfile.js
+  442  code .
+  443  npm init
+  444  npm i --save-dev gulp-concat
+  445  gulp
+  446  gulp
+  447  git checkout main
+  448  git merge issue-1
+  449  git branch --merged
+  450  git status
+  451  git add .
+  452  git commit -m 'concat css files with gulp'
+  453  git push
+  454  git pull
+  455  git status
+  456  git push
+  457  cd ..
+  458  git clone https://github.com/cmacmitt/sd130-assignment-2-repo-2.git
+  459  cd sd130-assignment-2-repo-2
+  460  code .
+  461  cd ..
+  462  git clone https://github.com/cmacmitt/sd130-assignment-2-repo-2.git
+  463  cd sd130-assignment-2-repo-2
+  464  code main.js
+  465  git branch issue-2
+  466  git checkout issue-2
+  467  code main.js
+  468  code .
+  469  git status
+  470  git status
+  471  npm init
+  472  npm i gulp-terser --save-dev
+  473  mv main.js src/js
+  474  gulp
+  475  git status
+  476  echo '.vscode' > .gitignore
+  477  cat .gitignore
+  478  git status
+  479  git add .
+  480  cd 
+  481  cd sd130-assignment-2-repo-2
+  482  git status
+  483  echo 'node_modules' > .gitignore
+  484  cat .gitignore
+  485  git status
+  486  echo '.vscode/' > .gitignore
+  487  cat .gitignore
+  488  git status
+  489  git status
+  490  git add .
+  491  git status
+  492  git add .
+  493  git add .
+  494  code .
+  495  git status
+  496  git add .
+  497  git gulp
+  498  gulp
+  499  npm init
+  500  yes
+  501  cd sd130-assignment-2-repo-2
+  502  git status
+  503  git add .
+  504  npm init --yes
+  505  gulp
+  506  code .
+  507  gulp 
+  508  git add .
+  509  cat .git
+  510  open .git
+  511  code .git
+  512  git status
+  513  git add .
+  514  git status
+  515  git commit -m 'add code to main.js and minify it'
+  516  git push 
+  517  git push --set-upstream origin issue-2
+  518  git checkout main
+  519  git commit -m 'merge issue-2 to main'
+  520  git status
+  521  git push
+  522  git merge issue-2
+  523  git branch --merged
+  524  git status
+  525  git push
+  526  history > history.text
+  527  git push
+  528  history > johnny-history 
